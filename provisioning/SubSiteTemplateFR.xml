@@ -1104,7 +1104,7 @@
                     <pnp:Property Key="iconClass" Value="fa-home" />
                   </pnp:CustomProperties>
                   <pnp:LocalCustomProperties>
-                    <pnp:Property Key="_Sys_Nav_SimpleLinkUrl" Value="/sites/{site}/{parameter:PagesLibraryName}/Home.aspx" />
+                    <pnp:Property Key="_Sys_Nav_SimpleLinkUrl" Value="{site}/{parameter:PagesLibraryName}/Home.aspx" />
                   </pnp:LocalCustomProperties>
                 </pnp:Term>
                 <pnp:Term Name="Contact">
